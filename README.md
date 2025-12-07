@@ -1,114 +1,240 @@
 <div align="center">
-  
-#  Hello there! I'm Frais-Asghar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  
-### **Mechanical Engineer | Manufacturing Specialist | AI Enthusiast**
-
+  <h2 style="margin-top:-10px; font-weight:600;">
+    Hi there, welcome to my GitHub profile!
+  </h2>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AF737&width=480&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Skilled+in+Python+and+C++" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:0047ab&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=88&descSize=26&descColor=a0e0ff&shadow=true" alt="Header" />
 </div>
 
----
 
-##  High-Impact Technical Profile
 
-A highly motivated and results-driven professional with a strong foundation in mechanical design, advanced simulation, and hands-on manufacturing processes. My expertise is built upon practical experience gained through an intensive **4.5-month hands-on workshop** at a dedicated Manufacturing Resource Center.
 
----
 
-###  Core Engineering & Manufacturing Mastery
-
-My skills cover the full production lifecycle, from initial design concepts to physical execution and validation.
-
-| **Manufacturing Domain** | **Practical Experience** |
-| :--- | :--- |
-| **Precision Machining** | Lathe and Milling Machines, Bench Fitting, Forging. |
-| **Fabrication & Joining** | Arc and Gas Welding, Casting, Electroplating, Woodworking. |
-| **Diagnostics** | Measuring Instruments, Working with Electric Circuits. |
-| **Problem Solving** | Real-world application of mechanical engineering concepts and technical problem-solving. |
-
-###  Advanced Technical Toolset (Vibrant Badges & Programming)
-
-I am skilled in a comprehensive suite of industry-standard engineering software and core programming languages. Using **Shields.io** badges ensures these logos display correctly with attractive colors.
-
-| Category | Tools & Software |
-| :--- | :--- |
-| **CAD & Design** | <img src="https://img.shields.io/badge/SolidWorks-000?style=for-the-badge&logo=solidworks&logoColor=FF9900" alt="SolidWorks"/> <img src="https://img.shields.io/badge/AutoCAD-F2F2F2?style=for-the-badge&logo=autocad&logoColor=red" alt="AutoCAD"/> |
-| **Simulation & Analysis** | <img src="https://img.shields.io/badge/ANSYS-FEA-FE7E00?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS"/> <img src="https://img.shields.io/badge/EES-Solver-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="EES"/> |
-| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> |
-| **Project & AI** | <img src="https://img.shields.io/badge/Primavera%20P6-PPM-E4003E?style=for-the-badge&logo=oracle&logoColor=white" alt="Primavera P6"/> <img src="https://img.shields.io/badge/AI%20Tools-ML%26DL-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Tools"/> |
-
-###  Innovation & Digital Transformation
 
 <div align="center">
-  
-  <p>Dedicated to merging traditional engineering with future technology.</p>
-  
-  <img src="https://skillicons.dev/icons?i=solidworks,autocad,ansys,cpp,py,ai,git,github,vscode" />
-  
-  <br>
-  
-  > *Applying AI and advanced simulation to optimize designs, predict failure, and streamline project execution.*
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Innovating+Manufacturing+Processes" alt="Typing SVG" />
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00D4FF&center=true&width=700&lines=AI-Powered+Engineering+Solutions+%E2%9A%99%EF%B8%8F;Innovating+Manufacturing+Processes+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+
+<!-- Tech Stack -->
+### **TECHNOLOGY STACK**
+<div align="center">
+  <img src="https://img.shields.io/badge/SolidWorks-FF9900?style=flat-square&logo=solidworks&logoColor=black" />
+  <img src="https://img.shields.io/badge/ANSYS-FF6C37?style=flat-square&logo=ansys&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autocad&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-00758F?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
+
+<br>
+
+<!-- Divider -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #00D4FF, #FF6B35, #00D4FF, transparent); width: 80%;">
+
+</div>
+
+
+
+## Technical Stack
+
+### CAD & Simulation Software
+<div align="center">
+  <table>
+    <tr>
+    <td align="center"><img src="https://brandslogos.com/wp-content/uploads/images/large/solidworks-logo-black-and-white.png" width="60" height="70" alt="SolidWorks"/><br><b>SolidWorks</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autocad&logoColor=white" width="130" height="100" alt="AutoCAD"/><br><b>AutoCAD</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="60" height="60" alt="ANSYS"/><br><b>ANSYS FEA</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/EES-007ACC?style=for-the-badge&logo=calculator&logoColor=white" width="100" height="80" alt="EES"/><br><b>EES</b></td>
+    </tr>
+  </table>
+</div>
+
+### Programming & Development
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br><b>Python</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/><br><b>C++</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br><b>Git</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/><br><b>GitHub</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/><br><b>VS Code</b></td>
+    </tr>
+  </table>
+</div>
+
+### Project Management & AI
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Primavera_P6-E4003E?style=for-the-badge&logo=oracle&logoColor=white" height="60" alt="Primavera P6"/><br><b>Primavera P6</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/><br><b>Machine Learning</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/><br><b>Deep Learning</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/><br><b>Data Analysis</b></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-###  GitHub Activity & Collaboration
+## Technical Capabilities
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Design & Analysis</b></td>
+      <td><b>AI & Automation</b></td>
+      <td><b>Project Execution</b></td>
+    </tr>
+    <tr>
+      <td>• 3D Modeling & Assembly<br>• FEA & Simulations<br>• Technical Drawing<br>• DFM Principles</td>
+      <td>• Predictive Maintenance<br>• Computer Vision<br>• Process Optimization<br>• Automated Reporting</td>
+      <td>• Process Planning<br>• Resource Scheduling<br>• Cost Estimation<br>• Quality Assurance</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Manufacturing & Engineering Expertise
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Machining</b></td>
+      <td>Lathe, Milling, CNC, Fitting</td>
+    </tr>
+    <tr>
+      <td><b>Fabrication</b></td>
+      <td>Welding, Casting, Forging</td>
+    </tr>
+    <tr>
+      <td><b>Measurement</b></td>
+      <td>Calipers, Micrometers, Gauges</td>
+    </tr>
+    <tr>
+      <td><b>Workshop Training</b></td>
+      <td>4.5 Months Intensive Program</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Professional Highlights
+<div align="center">
+  <table>
+    <tr>
+      <td>✅</td>
+      <td><b>Practical Manufacturing Knowledge</b><br>Hands-on experience with industrial equipments and Machines</td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><b>Technical Problem Solving</b><br>Systematic approach to engineering challenges</td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><b>Software Proficiency</b><br>Solidworks, AutoCAD, Ansys, FEA, Programming, Project Management</td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><b>AI Application</b><br>Implementing ML/DL in engineering contexts, Different AI Tools</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Activity Visualization
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph.svg">
+    <img width="100%" alt="Contribution Graph" src="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 <div align="center">
-  
-  [![Frais-Asghar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frais-Asghar&show_icons=true&theme=dracula&hide_border=true&line_height=20)](https://github.com/Frais-Asghar)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frais-Asghar&layout=compact&theme=dracula&hide_border=true)](https://github.com/Frais-Asghar)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&area=true&hide_border=true&height=300&bg_color=0D1117&title_color=00FF00&color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+---
+## GitHub Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="200" />
+      </td>
+      <td align="center">
+        <a href="https://github.com/fraisasghar">
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=fraisasghar&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-profile-trophy.vercel.app/?username=fraisasghar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" height="150" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+## Connect With Me
+<div align="center">
+
+| Platform | Badge | Link |
+|----------|--------|------|
+| LinkedIn | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> | [linkedin.com/in/frais-asghar202](https://www.linkedin.com/in/frais-asghar202) |
+| Email 1 | <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> | fraisasghar202@gmail.com |
+| Email 2 | <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" /> | fraisasghar404@gmail.com |
+| Phone | <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /> | 03266367678 |
+
 </div>
 
 ---
 
-###  Let's Connect
 
-I am always open to discussing collaboration opportunities, innovative engineering challenges, or technical roles.
+## Collaboration Ready
+<div align="center">
 
-| Platform | Contact Details |
-| :--- | :--- |
-| **LinkedIn** | [Frais-Asghar](https://www.linkedin.com/in/frais-asghar202) |
-| **Email 1** | fraisasghar202@gmail.com |
-| **Email 2** | fraisasghar404@gmail.com |
-| **Contact No.** | 03266367678 |
+<!-- Main Banner – Perfect Green -->
+<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-056d05?style=for-the-badge&logo=handshake&logoColor=white&labelColor=056d05&color=1DB954" height="60"/>
 
-***
-*Built with passion for precision engineering and a vision for the future.*
+<br><br>
 
-<<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+<!-- Stats – Big & Clean -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://komarev.com/ghpvc/?username=fraisasghar&label=Profile%20Views&color=056d05&style=for-the-badge" height="50"/>
+  <img src="https://img.shields.io/github/followers/fraisasghar?label=Followers&color=056d05&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/github/stars/fraisasghar?label=Total%20Stars&color=056d05&style=for-the-badge&logo=star&logoColor=white" height="50"/>
 </div>
 
-###
+<br><br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<!-- Final Call to Action – Killer Button -->
+<a href="mailto:fraisasghar202@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-056d05?style=for-the-badge&logo=rocket&logoColor=white&labelColor=056d05&color=1DB954" height="60"/>
+</a>
+
+<br><br><br>
+
+<!-- Text -->
+<p style="font-size:24px; color:#1DB954;">
+  <strong>Research • Technical Roles • AI + Engineering Projects</strong>
+</p>
+
+<p style="color:#aaaaaa; font-size:15px;">
+  <em>Last Updated: December 2025 • Built with precision for engineering excellence</em>
+</p>
+
 </div>
-
-###
-###
