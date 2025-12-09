@@ -174,42 +174,33 @@
 ### GitHub Analytics
 <div align="center">
 
+## 📊 GitHub Analytics
 
-<!-- Real-Time Contribution Graph -->
 ![](https://activity-graph.herokuapp.com/graph?username=fraisasghar&theme=react-dark&hide_border=true&area=true&color=00D4FF&bg_color=0D1117&line=00FF00&point=00D4FF)
 
+<br>
 
-
-##  Profile Overview
-
-<!-- This shows: Contributions, Public Repos, Join Date, Email -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=github_dark" width="100%" />
 
 <br>
 
-## 💻 Language Statistics
-
-<table>
+<table width="100%">
+  <!-- One row with all three -->
   <tr>
-    <td width="50%">
+    <td width="33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fraisasghar&theme=github_dark" width="100%" />
     </td>
-    <td width="50%">
+    <td width="33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" width="100%" />
+    </td>
+    <td width="34%" align="center">
+      <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 15px; border-radius: 12px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="180" />
+      </div>
     </td>
   </tr>
 </table>
 
-</div>
-
-
-
-
-
-<div align="center">
-  <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 15px; border-radius: 15px; display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="200" />
-  </div>
 </div>
 
 ---
