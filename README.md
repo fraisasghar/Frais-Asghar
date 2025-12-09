@@ -42,8 +42,6 @@
 
 </div>
 
-
-
 ## Technical Stack
 
 ### CAD & Simulation Software
@@ -153,11 +151,19 @@
 
 ## Activity Visualization
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph.svg">
-    <img width="100%" alt="Contribution Graph" src="https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/pacman-contribution-graph.svg">
-  </picture>
+  
+
+<!-- 3D Animated Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
+
+<!-- Animated Pacman Style -->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <div align="center">
@@ -165,37 +171,57 @@
 </div>
 
 ---
-## GitHub Analytics
+### GitHub Analytics
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="200" />
-      </td>
-      <td align="center">
-        <a href="https://github.com/fraisasghar">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=fraisasghar&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=fraisasghar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" height="150"/>
-      </td>
-    </tr>
-  </table>
+
+
+<!-- Real-Time Contribution Graph -->
+![](https://activity-graph.herokuapp.com/graph?username=fraisasghar&theme=react-dark&hide_border=true&area=true&color=00D4FF&bg_color=0D1117&line=00FF00&point=00D4FF)
+
+
+
+##  Profile Overview
+
+<!-- This shows: Contributions, Public Repos, Join Date, Email -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=github_dark" width="100%" />
+
+<br>
+
+## 💻 Language Statistics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fraisasghar&theme=github_dark" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+<div align="center">
+  <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 15px; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="200" />
+  </div>
 </div>
 
 ---
-## Connect With Me
+### Connect With Me
 <div align="center">
 
 | Platform | Badge | Link |
 |----------|--------|------|
-| LinkedIn | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> | [linkedin.com/in/frais-asghar202](https://www.linkedin.com/in/frais-asghar202) |
-| Email 1 | <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> | fraisasghar202@gmail.com |
-| Email 2 | <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" /> | fraisasghar404@gmail.com |
-| Phone | <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /> | 03266367678 |
+| LinkedIn | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="122" height="100" /> | [linkedin.com/in/frais-asghar202](https://www.linkedin.com/in/frais-asghar202) |
+| Email 1 | <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="122" height="90"/> | fraisasghar202@gmail.com |
+| Email 2 | <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" width="122" height="90"/> | fraisasghar404@gmail.com |
+| Phone | <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" width="122" height="60"/> | 03266367678 |
 
 </div>
 
