@@ -131,19 +131,19 @@
 <div align="center">
   <table>
     <tr>
-      <td>✅</td>
+      <td>Practical</td>
       <td><b>Practical Manufacturing Knowledge</b><br>Hands-on experience with industrial equipments and Machines</td>
     </tr>
     <tr>
-      <td>✅</td>
+      <td>Technical</td>
       <td><b>Technical Problem Solving</b><br>Systematic approach to engineering challenges</td>
     </tr>
     <tr>
-      <td>✅</td>
+      <td>Soft Skills</td>
       <td><b>Software Proficiency</b><br>Solidworks, AutoCAD, Ansys, FEA, Programming, Project Management</td>
     </tr>
     <tr>
-      <td>✅</td>
+      <td>Use of AI</td>
       <td><b>AI Application</b><br>Implementing ML/DL in engineering contexts, Different AI Tools</td>
     </tr>
   </table>
@@ -180,7 +180,7 @@
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=fraisasghar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" height="150" />
+        <img src="https://github-profile-trophy.vercel.app/?username=fraisasghar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" height="150"/>
       </td>
     </tr>
   </table>
