@@ -47,10 +47,10 @@
 <div align="center">
   <table>
     <tr>
-    <td align="center"><img src="https://brandslogos.com/wp-content/uploads/images/large/solidworks-logo-black-and-white.png" width="60" height="70" alt="SolidWorks"/><br><b>SolidWorks</b></td>
+    <td align="center"><img src="https://brandslogos.com/wp-content/uploads/images/large/solidworks-logo-black-and-white.png" width="90" height="70" alt="SolidWorks"/><br><b>SolidWorks</b></td>
     <td align="center"><img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autocad&logoColor=white" width="130" height="100" alt="AutoCAD"/><br><b>AutoCAD</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="60" height="60" alt="ANSYS"/><br><b>ANSYS FEA</b></td>
-      <td align="center"><img src="https://img.shields.io/badge/EES-007ACC?style=for-the-badge&logo=calculator&logoColor=white" width="100" height="80" alt="EES"/><br><b>EES</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="80" height="80" alt="ANSYS"/><br><b>ANSYS FEA</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/EES-007ACC?style=for-the-badge&logo=calculator&logoColor=white" width="110" height="80" alt="EES"/><br><b>EES</b></td>
     </tr>
   </table>
 </div>
@@ -59,11 +59,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br><b>Python</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/><br><b>C++</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br><b>Git</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/><br><b>GitHub</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/><br><b>VS Code</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="60" alt="Python"/><br><b>Python</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="60" alt="C++"/><br><b>C++</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90" height="60" alt="Git"/><br><b>Git</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" height="60" alt="GitHub"/><br><b>GitHub</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="60" alt="VS Code"/><br><b>VS Code</b></td>
     </tr>
   </table>
 </div>
@@ -72,7 +72,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Primavera_P6-E4003E?style=for-the-badge&logo=oracle&logoColor=white" height="60" alt="Primavera P6"/><br><b>Primavera P6</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/Primavera_P6-E4003E?style=for-the-badge&logo=oracle&logoColor=white"  height="60" alt="Primavera P6"/><br><b>Primavera P6</b></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/><br><b>Machine Learning</b></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/><br><b>Deep Learning</b></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/><br><b>Data Analysis</b></td>
@@ -105,19 +105,19 @@
   <table>
     <tr>
       <td><b>Machining</b></td>
-      <td>Lathe, Milling, CNC, Fitting</td>
+      <td>Lathe and Milling, Drilling, CNC, Bench Fitting, Electroplating Workshop</td>
     </tr>
     <tr>
       <td><b>Fabrication</b></td>
-      <td>Welding, Casting, Forging</td>
+      <td>Arc and Gass Welding, Casting and Forging, Bench Fitting, Paint Workshop</td>
     </tr>
     <tr>
       <td><b>Measurement</b></td>
-      <td>Calipers, Micrometers, Gauges</td>
+      <td>Calipers, Screw Gauges, Dephth, Hieght and Thread Pitch Guages, Wire Guage</td>
     </tr>
     <tr>
       <td><b>Workshop Training</b></td>
-      <td>4.5 Months Intensive Program</td>
+      <td>4.5 Months Intensive Program, 1 month Civics and Community service workshop</td>
     </tr>
   </table>
 </div>
@@ -285,10 +285,6 @@
 
 </div>
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
