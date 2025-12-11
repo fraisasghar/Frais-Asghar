@@ -48,7 +48,7 @@
   <table>
     <tr>
     <td align="center"><img src="https://brandslogos.com/wp-content/uploads/images/large/solidworks-logo-black-and-white.png" width="90" height="70" alt="SolidWorks"/><br><b>SolidWorks</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autocad&logoColor=white" width="130" height="100" alt="AutoCAD"/><br><b>AutoCAD</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autocad&logoColor=white" width="130" height="100" alt="AutoCAD"/><br><b>AutoCAD</b></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="80" height="80" alt="ANSYS"/><br><b>ANSYS FEA</b></td>
       <td align="center"><img src="https://img.shields.io/badge/EES-007ACC?style=for-the-badge&logo=calculator&logoColor=white" width="110" height="80" alt="EES"/><br><b>EES</b></td>
     </tr>
@@ -200,16 +200,22 @@
 
 </div>
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fraisasghar&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+
+
 ---
 ### Connect With Me
 <div align="center">
 
-| Platform | Badge | Link |
+| Connected Platforms | Badges | Links |
 |----------|--------|------|
-| LinkedIn | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="122" height="100" /> | [linkedin.com/in/frais-asghar202](https://www.linkedin.com/in/frais-asghar202) |
+| LinkedIn Profile  | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="122" height="100" /> | [linkedin.com/in/frais-asghar202](https://www.linkedin.com/in/frais-asghar202) |
 | Email 1 | <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="122" height="90"/> | fraisasghar202@gmail.com |
 | Email 2 | <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" width="122" height="90"/> | fraisasghar404@gmail.com |
-| Phone | <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" width="122" height="60"/> | 03266367678 |
+| Phone/ Contact | <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" width="122" height="36"/> | 03266367678 |
 
 </div>
 
