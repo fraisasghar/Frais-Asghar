@@ -36,7 +36,13 @@
 
 <br>
 
+<!-- Profile Summary -->
 
+<p align="right">
+  <a href="https://profile-summary-for-github.com/user/fraisasghar">
+    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-00a8ff?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+  </a>
+</p>
 <!-- Main Banner – Perfect Green -->
 
 <!-- Divider -->
