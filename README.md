@@ -36,14 +36,30 @@
 
 <br>
 
+
+<!-- Main Banner – Perfect Green -->
+
 <!-- Divider -->
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #00D4FF, #FF6B35, #00D4FF, transparent); width: 80%;">
 
 </div>
 
-## Technical Stack
 
-### CAD & Simulation Software
+<!-- Gradient Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+<!-- Technical Stack -->
+<div align="center">
+  <h2 align="center">
+    <span style="color: #FFD700;">✦</span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=300&height=50&lines=Technical+Stack" alt="Technical Stack" />
+    <span style="color: #FFD700;">✦</span>
+  </h2>
+</div>
+
+### CAD & Simulation Software:
 <div align="center">
   <table>
     <tr>
@@ -55,7 +71,7 @@
   </table>
 </div>
 
-### Programming & Development
+### Programming & Development:
 <div align="center">
   <table>
     <tr>
@@ -68,7 +84,7 @@
   </table>
 </div>
 
-### Project Management & AI
+### Project Management & AI:
 <div align="center">
   <table>
     <tr>
@@ -82,7 +98,8 @@
 
 ---
 
-## Technical Capabilities
+## Technical Capabilities:
+<br/>
 <div align="center">
   <table>
     <tr>
@@ -100,7 +117,8 @@
 
 ---
 
-## Manufacturing & Engineering Expertise
+## Manufacturing & Engineering Expertise:
+<br/>
 <div align="center">
   <table>
     <tr>
@@ -124,7 +142,8 @@
 
 ---
 
-## Professional Highlights
+## Professional Highlights:
+<br/>
 <div align="center">
   <table>
     <tr>
@@ -148,8 +167,15 @@
 
 ---
 
-## Activity Visualization
+<!-- Activity visulization -->
+
 <div align="center">
+  <h2 align="center">
+    <span style="color: #32CD32;">✦</span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=380&height=50&lines=Activity+Visualization" alt="Activity Visualization" />
+    <span style="color: #32CD32;">✦</span>
+  </h2>
+</div>
   
 
 <!-- 3D Animated Graph -->
@@ -157,6 +183,7 @@
 
 <!-- Animated Pacman Style -->
 <br>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -170,7 +197,15 @@
 </div>
 
 ---
-### GitHub Analytics
+
+<!-- Github Analytics -->
+<div align="center">
+<h2 align="center" style="display:flex;align-items:center;justify-content:center;gap:15px;">
+<span style="color:#0366d6;font-size:28px;">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=0366d6&center=true&vCenter=true&width=330&height=50&lines=GitHub+Analytics" alt="GitHub Analytics" style="vertical-align:middle;"/><span style="color:#0366d6;font-size:28px;">✦</span>
+</h2>
+</div>
+
+
 <div align="center">
 
 ![](https://activity-graph.herokuapp.com/graph?username=fraisasghar&theme=react-dark&hide_border=true&area=true&color=00D4FF&bg_color=0D1117&line=00FF00&point=00D4FF)
@@ -207,7 +242,12 @@
 
 
 ---
-### Connect With Me
+
+<!-- Connect With Me -->
+<div align="center"><h2 align="center" style="display:inline-flex;align-items:center;margin:0;padding:0"><span style="color:#FF0000;font-size:28px;margin:0;padding:0">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=320&lines=Connect%20With%20Me" alt="Connect With Me" style="vertical-align:middle;margin:0;padding:0"/><span style="color:#FF0000;font-size:28px;margin:0;padding:0">✦</span></h2></div>
+
+
+
 <div align="center">
 
 | Connected Platforms | Badges | Links |
@@ -238,9 +278,11 @@
   </a>
 </div>
 
+---
 
+<!-- Collaboration Ready -->
+<div align="center"><h2 align="center" style="display:inline-flex;align-items:center;margin:0;padding:0"><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=340&lines=Collaboration%20Ready" alt="Collaboration Ready" style="vertical-align:middle;margin:0;padding:0"/><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span></h2></div>
 
-## Collaboration Ready
 <div align="center">
 
 <!-- Main Banner – Perfect Green -->
