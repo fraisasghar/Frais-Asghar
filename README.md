@@ -225,31 +225,29 @@
 
 <br>
 
-<table width="100%">
-  <!-- One row with all three -->
+<!--Table -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fraisasghar&theme=github_dark" width="100%" />
+    <td width="33.33%" style="padding: 0; margin: 0;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fraisasghar&theme=github_dark" style="width: 100%; height: auto; display: block;" />
     </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" width="100%" />
+    <td width="33.33%" style="padding: 0; margin: 0;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" style="width: 100%; height: auto; display: block;" />
     </td>
-    <td width="34%" align="center">
-      <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 15px; border-radius: 12px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="180" />
+    <td width="33.33%" style="padding: 0; margin: 0;">
+      <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 0; border-radius: 12px; overflow: hidden;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" style="width: 100%; height: auto; display: block;" />
       </div>
     </td>
   </tr>
 </table>
 
-</div>
-
 
 <!--Trophies -->
 <p align="center">
   <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
-    <img src="https://github-trophies.vercel.app/?username=fraisasghar&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=12" 
-         style="width: 1200px; margin-left: -120px; transform: scale(1.1);" 
+    <img src="https://github-trophies.vercel.app/?username=fraisasghar&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
+         style="width: 1000px; margin-left: 0;" 
          alt="Trophies" />
   </div>
 </p>
